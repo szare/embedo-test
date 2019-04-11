@@ -23,7 +23,7 @@ export default class EmbedoItem extends Component {
 
     render() {
         return (
-            <div className='embedoWrapper'>
+            <div className='embedo-item'>
                 <a
                     className=""
                     key={this.props.id}
